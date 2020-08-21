@@ -6,7 +6,7 @@
   <link href="https://silk.moe/atom.xml" rel="self"/>
   
   <link href="https://silk.moe/"/>
-  <updated>2020-08-21T06:57:42.005Z</updated>
+  <updated>2020-08-21T08:24:55.513Z</updated>
   <id>https://silk.moe/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学习日记-2020.8.21</title>
+    <link href="https://silk.moe/2020/08/21/1/"/>
+    <id>https://silk.moe/2020/08/21/1/</id>
+    <published>2020-08-21T08:23:31.553Z</published>
+    <updated>2020-08-21T08:24:55.513Z</updated>
+    
+    <content type="html"><![CDATA[<p>1</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="记录" scheme="https://silk.moe/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="学习" scheme="https://silk.moe/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
