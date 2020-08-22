@@ -6,7 +6,7 @@
   <link href="https://silk.moe/atom.xml" rel="self"/>
   
   <link href="https://silk.moe/"/>
-  <updated>2020-08-22T05:01:01.024Z</updated>
+  <updated>2020-08-22T14:15:16.615Z</updated>
   <id>https://silk.moe/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>设置网易域名邮箱的失败经历</title>
+    <link href="https://silk.moe/2020/08/22/3/"/>
+    <id>https://silk.moe/2020/08/22/3/</id>
+    <published>2020-08-22T13:42:41.000Z</published>
+    <updated>2020-08-22T14:15:16.615Z</updated>
+    
+    <content type="html"><![CDATA[<p>本来域名解析在namesilo，<br>但namesilo不能在裸域设置cname解析，<br>于是把ns记录改到了主机壳,这个之前用过，管理界面还是很友好的。</p><p>同时设置了cname记录和mx记录的解析，结果等了一天网易域名邮箱也没验证成功，<br>结合之前最多2小时左右就设置成功的经验，我怀疑还是cname和mx记录不能共存的原因。</p><p>果然，把cname删了，两三分钟后mx验证就成功了，<br>验证成功后，我尝试把cname加了回来，又无法正常收发信了，好无奈。</p><p>。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;本来域名解析在namesilo，&lt;br&gt;但namesilo不能在裸域设置cname解析，&lt;br&gt;于是把ns记录改到了主机壳,这个之前用过，管理界面还是很友好的。&lt;/p&gt;
+&lt;p&gt;同时设置了cname记录和mx记录的解析，结果等了一天网易域名邮箱也没验证成功，&lt;br&gt;结合之前最</summary>
+      
+    
+    
+    
+    <category term="记录" scheme="https://silk.moe/categories/%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="域名邮箱" scheme="https://silk.moe/tags/%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>尝试放图</title>
@@ -48,7 +73,7 @@
     <link href="https://silk.moe/2020/08/22/2/"/>
     <id>https://silk.moe/2020/08/22/2/</id>
     <published>2020-08-22T02:03:21.000Z</published>
-    <updated>2020-08-22T05:02:09.138Z</updated>
+    <updated>2020-08-22T14:12:54.753Z</updated>
     
     <content type="html"><![CDATA[<p>10:03    去背单词了    背单词失败</p>]]></content>
     
