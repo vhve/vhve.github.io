@@ -6,7 +6,7 @@
   <link href="https://silk.moe/atom.xml" rel="self"/>
   
   <link href="https://silk.moe/"/>
-  <updated>2020-08-22T02:31:14.269Z</updated>
+  <updated>2020-08-22T04:50:43.882Z</updated>
   <id>https://silk.moe/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>尝试放图</title>
+    <link href="https://silk.moe/2020/08/22/picture/"/>
+    <id>https://silk.moe/2020/08/22/picture/</id>
+    <published>2020-08-22T04:24:19.000Z</published>
+    <updated>2020-08-22T04:50:43.882Z</updated>
+    
+    <content type="html"><![CDATA[<p>尝试放图，另外webp是真的小</p><p><img src="/2020/08/22/picture/f1vcRwdp.webp" alt="1"><br><img src="/2020/08/22/picture/QQ%E5%9B%BE%E7%89%8720200821124006.jpg" alt="1"></p><img src="/2020/08/22/picture/08/22/picture/f1vcRwdp.webp" class title="助手">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;尝试放图，另外webp是真的小&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2020/08/22/picture/f1vcRwdp.webp&quot; alt=&quot;1&quot;&gt;&lt;br&gt;&lt;img src=&quot;/2020/08/22/picture/QQ%E5%9B%BE%E7%89%872020082</summary>
+      
+    
+    
+    
+    <category term="test" scheme="https://silk.moe/categories/test/"/>
+    
+    
+    <category term="图片" scheme="https://silk.moe/tags/%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
   
   <entry>
     <title>学习日记-2020.8.22</title>
