@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Rukako</title>
+  <title>Moepage</title>
   
-  <subtitle>MoePage</subtitle>
+  <subtitle>A Page Full of Moe</subtitle>
   <link href="https://moepage.com/atom.xml" rel="self"/>
   
   <link href="https://moepage.com/"/>
-  <updated>2020-08-27T12:59:23.528Z</updated>
+  <updated>2020-09-03T01:04:23.232Z</updated>
   <id>https://moepage.com/</id>
   
   <author>
-    <name>Rukako</name>
+    <name>Moepage</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>lofter</title>
+    <title>Lofter</title>
     <link href="https://moepage.com/2020/08/27/8/"/>
     <id>https://moepage.com/2020/08/27/8/</id>
     <published>2020-08-27T12:52:00.000Z</published>
-    <updated>2020-08-27T12:59:23.528Z</updated>
+    <updated>2020-09-03T01:04:23.232Z</updated>
     
-    <content type="html"><![CDATA[<p>以后短文字可以发到lofter</p><a id="more"></a><p><a href="https://moepage.lofter.com/">https://moepage.lofter.com/</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Hexo发布文章的过程比较繁琐，故以后短文字发到Lofter，这里只发长文。若需联系也请通过Lofter，内有评论及私信功能，不再留其他联系方式。</p><a id="more"></a><p><a href="https://moepage.lofter.com/">https://moepage.lofter.com/</a></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;以后短文字可以发到lofter&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hexo发布文章的过程比较繁琐，故以后短文字发到Lofter，这里只发长文。若需联系也请通过Lofter，内有评论及私信功能，不再留其他联系方式。&lt;/p&gt;</summary>
     
     
     
@@ -63,7 +63,7 @@
     <link href="https://moepage.com/2020/08/24/6/"/>
     <id>https://moepage.com/2020/08/24/6/</id>
     <published>2020-08-24T11:11:56.000Z</published>
-    <updated>2020-08-27T12:59:27.482Z</updated>
+    <updated>2020-09-03T00:46:10.463Z</updated>
     
     <content type="html"><![CDATA[<p>B站买的书，希望能对我有一点帮助。</p><a id="more"></a><p><img src="/2020/08/24/6/HMcCS9S4.webp" alt="1"><br><img src="/2020/08/24/6/UaMUAKvy.webp" alt="2"><br><img src="/2020/08/24/6/wo7njHWR.webp" alt="3"><br><img src="/2020/08/24/6/vhPaLxWO.webp" alt="4"><br><img src="/2020/08/24/6/HEiEw4L2.webp" alt="5"><br><img src="/2020/08/24/6/zk19P4R6.webp" alt="6"></p>]]></content>
     
