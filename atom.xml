@@ -18,8 +18,8 @@
   
   <entry>
     <title>装扮汇总</title>
-    <link href="https://moepage.com/2021/01/06/3/"/>
-    <id>https://moepage.com/2021/01/06/3/</id>
+    <link href="https://moepage.com/2021/01/06/1/"/>
+    <id>https://moepage.com/2021/01/06/1/</id>
     <published>2021-01-06T03:03:00.000Z</published>
     <updated>2021-01-06T03:51:58.308Z</updated>
     
@@ -52,71 +52,6 @@
     <category term="哔哩哔哩" scheme="https://moepage.com/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
     
     <category term="个性装扮" scheme="https://moepage.com/tags/%E4%B8%AA%E6%80%A7%E8%A3%85%E6%89%AE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Lofter</title>
-    <link href="https://moepage.com/2020/08/27/2/"/>
-    <id>https://moepage.com/2020/08/27/2/</id>
-    <published>2020-08-27T12:52:00.000Z</published>
-    <updated>2021-01-06T03:04:54.697Z</updated>
-    
-    <content type="html"><![CDATA[<p>Hexo发布文章的过程比较繁琐，故以后短文字发到Lofter，这里只发长文。<br>若需联系也请通过Lofter，内有评论及私信功能，不再留其他联系方式。</p><a id="more"></a><p><a href="https://moepage.lofter.com/">https://moepage.lofter.com/</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Hexo发布文章的过程比较繁琐，故以后短文字发到Lofter，这里只发长文。&lt;br&gt;若需联系也请通过Lofter，内有评论及私信功能，不再留其他联系方式。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="记录" scheme="https://moepage.com/categories/%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="Lofter" scheme="https://moepage.com/tags/Lofter/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>尝试放图</title>
-    <link href="https://moepage.com/2020/08/22/1/"/>
-    <id>https://moepage.com/2020/08/22/1/</id>
-    <published>2020-08-22T04:24:19.000Z</published>
-    <updated>2020-08-25T01:20:46.738Z</updated>
-    
-    <content type="html"><![CDATA[<p>尝试放图，另外webp是真的小</p><a id="more"></a><p>Safari居然不支持显示webp！！！手机和平板都不显示图片呜呜呜</p><p><img src="/2020/08/22/1/f1vcRwdp.webp" alt="助手"></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;尝试放图，另外webp是真的小&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="test" scheme="https://moepage.com/categories/test/"/>
-    
-    
-    <category term="test" scheme="https://moepage.com/tags/test/"/>
-    
-    <category term="图片" scheme="https://moepage.com/tags/%E5%9B%BE%E7%89%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://moepage.com/2020/08/21/0/"/>
-    <id>https://moepage.com/2020/08/21/0/</id>
-    <published>2020-08-21T02:25:56.676Z</published>
-    <updated>2020-09-10T05:33:27.878Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="可每次复制"><a href="#可每次复制" class="headerlink" title="可每次复制"></a>可每次复制</h3><a id="more"></a><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">categories: </span><br><span class="line">- 分类名1</span><br><span class="line">- 分类名2</span><br><span class="line">tags:</span><br><span class="line">- 标签名1</span><br><span class="line">- 标签名2</span><br><span class="line">pic: 文件名.webp</span><br></pre></td></tr></table></figure><h3 id="自定义缩略图"><a href="#自定义缩略图" class="headerlink" title="自定义缩略图"></a>自定义缩略图</h3><p>在文章对应的文件夹内</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pic: 文件名.格式</span><br></pre></td></tr></table></figure><h3 id="又拍云图片格式转webp"><a href="#又拍云图片格式转webp" class="headerlink" title="又拍云图片格式转webp"></a>又拍云图片格式转webp</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://www.upyun.com/webp</span><br></pre></td></tr></table></figure><h3 id="添加图片"><a href="#添加图片" class="headerlink" title="添加图片"></a>添加图片</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![备注名](图片名字.图片格式)</span><br></pre></td></tr></table></figure><h3 id="文章前面添加分类和标签以及置顶"><a href="#文章前面添加分类和标签以及置顶" class="headerlink" title="文章前面添加分类和标签以及置顶"></a>文章前面添加分类和标签以及置顶</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">categories: </span><br><span class="line">- 分类名</span><br><span class="line">tags:</span><br><span class="line">- 标签名</span><br><span class="line">top: <span class="literal">true</span></span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;可每次复制&quot;&gt;&lt;a href=&quot;#可每次复制&quot; class=&quot;headerlink&quot; title=&quot;可每次复制&quot;&gt;&lt;/a&gt;可每次复制&lt;/h3&gt;</summary>
-    
-    
-    
-    <category term="test" scheme="https://moepage.com/categories/test/"/>
-    
-    
-    <category term="test" scheme="https://moepage.com/tags/test/"/>
     
   </entry>
   
