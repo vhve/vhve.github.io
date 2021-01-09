@@ -6,7 +6,7 @@
   <link href="https://moepage.com/atom.xml" rel="self"/>
   
   <link href="https://moepage.com/"/>
-  <updated>2021-01-09T04:08:15.590Z</updated>
+  <updated>2021-01-09T04:28:08.786Z</updated>
   <id>https://moepage.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://moepage.com/1/"/>
     <id>https://moepage.com/1/</id>
     <published>2021-01-06T03:03:00.000Z</published>
-    <updated>2021-01-09T04:08:15.590Z</updated>
+    <updated>2021-01-09T04:28:08.786Z</updated>
     
     <content type="html"><![CDATA[<p>更新库存及价格，不讲价，随缘出。</p><table><thead><tr><th>欧皇</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>11299</td><td>112.99</td></tr></tbody></table><table><thead><tr><th>天蝎</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>32100</td><td>123</td></tr><tr><td>2</td><td>10270</td><td>270</td></tr></tbody></table><table><thead><tr><th>射手</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>30111</td><td>31.11</td></tr></tbody></table><table><thead><tr><th>摩羯</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>26262</td><td>26.26</td></tr></tbody></table><table><thead><tr><th>幻星</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>16999</td><td>33</td></tr><tr><td>2</td><td>17000</td><td>39</td></tr><tr><td>1+2</td><td>-</td><td>60</td></tr></tbody></table><table><thead><tr><th>花园</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>16900</td><td>169</td></tr></tbody></table><table><thead><tr><th>醒着</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>19600</td><td>150</td></tr><tr><td>2</td><td>12020</td><td>150</td></tr><tr><td>3</td><td>8990</td><td>150</td></tr><tr><td>4</td><td>8500</td><td>150</td></tr></tbody></table><table><thead><tr><th>雪未来</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>51000</td><td>90</td></tr></tbody></table><table><thead><tr><th>团长</th><th>编号</th><th>价格</th></tr></thead><tbody><tr><td>1</td><td>25999</td><td>95.2</td></tr><tr><td>2</td><td>26000</td><td>92</td></tr></tbody></table>]]></content>
     
@@ -48,11 +48,7 @@
     <category term="装扮" scheme="https://moepage.com/categories/%E8%A3%85%E6%89%AE/"/>
     
     
-    <category term="Bilibili" scheme="https://moepage.com/tags/Bilibili/"/>
-    
-    <category term="哔哩哔哩" scheme="https://moepage.com/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
-    
-    <category term="个性装扮" scheme="https://moepage.com/tags/%E4%B8%AA%E6%80%A7%E8%A3%85%E6%89%AE/"/>
+    <category term="B站个性装扮" scheme="https://moepage.com/tags/B%E7%AB%99%E4%B8%AA%E6%80%A7%E8%A3%85%E6%89%AE/"/>
     
   </entry>
   
