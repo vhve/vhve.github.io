@@ -6,7 +6,7 @@
   <link href="https://moepage.com/atom.xml" rel="self"/>
   
   <link href="https://moepage.com/"/>
-  <updated>2021-03-12T00:59:40.870Z</updated>
+  <updated>2021-03-13T09:44:00.654Z</updated>
   <id>https://moepage.com/</id>
   
   <author>
@@ -17,29 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>装扮汇总表</title>
-    <link href="https://moepage.com/1/"/>
-    <id>https://moepage.com/1/</id>
+    <title>我的装扮库存</title>
+    <link href="https://moepage.com/zb/"/>
+    <id>https://moepage.com/zb/</id>
     <published>2021-01-06T03:03:00.000Z</published>
-    <updated>2021-03-12T00:59:40.870Z</updated>
+    <updated>2021-03-13T09:44:00.654Z</updated>
     
-    <content type="html"><![CDATA[<p>有需要的请B站私信，未标价的一律带价。</p><table><thead><tr><th>NAME</th><th>FANS NO.</th><th>PRICE</th></tr></thead><tbody><tr><td>羊驼</td><td>292</td><td>60</td></tr><tr><td>羊驼</td><td>3690</td><td>45</td></tr><tr><td>羊驼</td><td>3939</td><td>-</td></tr><tr><td>羊驼</td><td>3940</td><td>39</td></tr><tr><td>羊驼</td><td>3941</td><td>35</td></tr><tr><td>羊驼</td><td>4000</td><td>-</td></tr><tr><td>羊驼</td><td>4001</td><td>39</td></tr><tr><td>第五人格</td><td>4388</td><td>43.88</td></tr><tr><td>第五人格</td><td>3355</td><td>50</td></tr><tr><td>不问天</td><td>40004</td><td>-</td></tr><tr><td>不问天</td><td>122339</td><td>-</td></tr><tr><td>不问天</td><td>132000</td><td>-</td></tr><tr><td>不问天</td><td>133232</td><td>28</td></tr><tr><td>不问天</td><td>133233</td><td>-</td></tr><tr><td>2021拜年纪</td><td>32223</td><td>-</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th>NAME</th><th>FANS NO.</th></tr></thead><tbody><tr><td>不问天</td><td>40004</td></tr><tr><td>不问天</td><td>122339</td></tr><tr><td>不问天</td><td>132000</td></tr><tr><td>不问天</td><td>133232</td></tr><tr><td>不问天</td><td>133233</td></tr><tr><td>2021拜年纪</td><td>32223</td></tr></tbody></table><table><thead><tr><th>NAME</th><th>FANS NO.</th></tr></thead><tbody><tr><td>羊驼</td><td>292</td></tr><tr><td>羊驼</td><td>3690</td></tr><tr><td>羊驼</td><td>3939</td></tr><tr><td>羊驼</td><td>3940</td></tr><tr><td>羊驼</td><td>3941</td></tr><tr><td>羊驼</td><td>4000</td></tr><tr><td>羊驼</td><td>4001</td></tr><tr><td>第五人格</td><td>4388</td></tr><tr><td>第五人格</td><td>3355</td></tr></tbody></table><table><thead><tr><th>NAME</th><th>FANS NO.</th></tr></thead><tbody><tr><td>伍六七</td><td>132</td></tr><tr><td>伍六七</td><td>13776</td></tr><tr><td>伍六七</td><td>13777</td></tr><tr><td>伍六七</td><td>17770</td></tr><tr><td>伍六七</td><td>18567</td></tr></tbody></table><table><thead><tr><th>NAME</th><th>FANS NO.</th></tr></thead><tbody><tr><td>鹿乃</td><td>46094</td></tr></tbody></table><table><thead><tr><th>NAME</th><th>FANS NO.</th></tr></thead><tbody><tr><td>双鱼</td><td>3689</td></tr><tr><td>双鱼</td><td>35996</td></tr><tr><td>双鱼</td><td>35997</td></tr><tr><td>双鱼</td><td>35998</td></tr><tr><td>双鱼</td><td>35999</td></tr><tr><td>双鱼</td><td>36000</td></tr><tr><td>双鱼</td><td>36500</td></tr><tr><td>双鱼</td><td>39111</td></tr><tr><td>双鱼</td><td>39139</td></tr><tr><td>双鱼</td><td>47666</td></tr><tr><td>双鱼</td><td>47667</td></tr><tr><td>双鱼</td><td>51313</td></tr><tr><td>双鱼</td><td>51314</td></tr><tr><td>双鱼</td><td>51315</td></tr><tr><td>双鱼</td><td>51322</td></tr><tr><td>双鱼</td><td>51333</td></tr><tr><td>双鱼</td><td>52035</td></tr><tr><td>双鱼</td><td>52053</td></tr><tr><td>双鱼</td><td>52077</td></tr><tr><td>双鱼</td><td>52097</td></tr><tr><td>双鱼</td><td>52098</td></tr><tr><td>双鱼</td><td>52099</td></tr><tr><td>双鱼</td><td>52100</td></tr><tr><td>双鱼</td><td>52107</td></tr><tr><td>双鱼</td><td>52108</td></tr><tr><td>双鱼</td><td>52109</td></tr><tr><td>双鱼</td><td>52110</td></tr><tr><td>双鱼</td><td>52111</td></tr><tr><td>双鱼</td><td>52112</td></tr><tr><td>双鱼</td><td>52125</td></tr></tbody></table><table><thead><tr><th>NAME</th><th>FANS NO.</th></tr></thead><tbody><tr><td>天秤</td><td>32399</td></tr><tr><td>天蝎</td><td>10270</td></tr><tr><td>天蝎</td><td>32100</td></tr><tr><td>射手</td><td>3990</td></tr><tr><td>摩羯</td><td>40400</td></tr><tr><td>水瓶</td><td>2332</td></tr><tr><td>水瓶</td><td>37978</td></tr><tr><td>水瓶</td><td>37979</td></tr></tbody></table><table><thead><tr><th>NAME</th><th>FANS NO.</th></tr></thead><tbody><tr><td>雪未来</td><td>71715</td></tr><tr><td>雪未来</td><td>71716</td></tr><tr><td>雪未来</td><td>71717</td></tr><tr><td>初音13th</td><td>97870</td></tr><tr><td>初音13th</td><td>98239</td></tr><tr><td>初音13th</td><td>13776</td></tr><tr><td>初音13th</td><td>98765</td></tr><tr><td>初音13th</td><td>98764</td></tr><tr><td>初音13th</td><td>98763</td></tr><tr><td>初音13th</td><td>98762</td></tr><tr><td>初音13th</td><td>98761</td></tr><tr><td>初音13th</td><td>98760</td></tr><tr><td>初音13th</td><td>98759</td></tr><tr><td>初音13th</td><td>98758</td></tr><tr><td>初音13th</td><td>98757</td></tr><tr><td>初音13th</td><td>98756</td></tr><tr><td>初音13th</td><td>98839</td></tr><tr><td>初音13th</td><td>99233</td></tr><tr><td>初音13th</td><td>99232</td></tr><tr><td>初音13th</td><td>99237</td></tr><tr><td>初音13th</td><td>99238</td></tr><tr><td>初音13th</td><td>99239</td></tr></tbody></table><table><thead><tr><th>NAME</th><th>FANS NO.</th></tr></thead><tbody><tr><td>琉绮</td><td>9767</td></tr><tr><td>花园</td><td>16900</td></tr><tr><td>还有醒着的么</td><td>1113</td></tr><tr><td>还有醒着的么</td><td>5222</td></tr><tr><td>还有醒着的么</td><td>11233</td></tr></tbody></table>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;有需要的请B站私信，未标价的一律带价。&lt;/p&gt;
-&lt;table&gt;
+    <summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;NAME&lt;/th&gt;
 &lt;th&gt;FANS NO.&lt;/th&gt;
-&lt;th&gt;PRICE&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;羊驼&lt;/td&gt;
-&lt;td&gt;29</summary>
+&lt;td&gt;不问天&lt;/td&gt;
+&lt;td&gt;40004&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;不问天&lt;/td&gt;
+&lt;td&gt;1223</summary>
       
     
     
@@ -47,13 +49,11 @@
     <category term="装扮" scheme="https://moepage.com/categories/%E8%A3%85%E6%89%AE/"/>
     
     
-    <category term="B站个性装扮" scheme="https://moepage.com/tags/B%E7%AB%99%E4%B8%AA%E6%80%A7%E8%A3%85%E6%89%AE/"/>
-    
-    <category term="个性装扮" scheme="https://moepage.com/tags/%E4%B8%AA%E6%80%A7%E8%A3%85%E6%89%AE/"/>
+    <category term="bilibili" scheme="https://moepage.com/tags/bilibili/"/>
     
     <category term="哔哩哔哩" scheme="https://moepage.com/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
     
-    <category term="bilibili" scheme="https://moepage.com/tags/bilibili/"/>
+    <category term="个性装扮" scheme="https://moepage.com/tags/%E4%B8%AA%E6%80%A7%E8%A3%85%E6%89%AE/"/>
     
   </entry>
   
