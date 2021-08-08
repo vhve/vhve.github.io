@@ -6,7 +6,7 @@
   <link href="https://www.silk.moe/atom.xml" rel="self"/>
   
   <link href="https://www.silk.moe/"/>
-  <updated>2021-07-15T06:53:47.241Z</updated>
+  <updated>2021-08-08T15:20:19.180Z</updated>
   <id>https://www.silk.moe/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>B站装扮</title>
+    <link href="https://www.silk.moe/zb/"/>
+    <id>https://www.silk.moe/zb/</id>
+    <published>2021-08-08T14:58:43.000Z</published>
+    <updated>2021-08-08T15:20:19.180Z</updated>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th>装扮</th><th>粉丝编号</th></tr></thead><tbody><tr><td>天秤</td><td>35306</td></tr><tr><td>天秤</td><td>35307</td></tr><tr><td>双鱼</td><td>36000</td></tr><tr><td>赏樱大会欧皇</td><td>4501</td></tr><tr><td>赏樱大会欧皇</td><td>4965</td></tr><tr><td>赏樱大会欧皇</td><td>6258</td></tr><tr><td>赏樱大会欧皇</td><td>7631</td></tr><tr><td>赏樱大会欧皇</td><td>10575</td></tr><tr><td>赏樱大会欧皇</td><td>10586</td></tr><tr><td>赏樱大会欧皇</td><td>11532</td></tr><tr><td>赏樱大会欧皇</td><td>11541</td></tr><tr><td>赏樱大会欧皇</td><td>12584</td></tr><tr><td>赏樱大会欧皇</td><td>13635</td></tr><tr><td>赏樱大会欧皇</td><td>15613</td></tr><tr><td>赏樱大会欧皇</td><td>15835</td></tr><tr><td>赏樱大会欧皇</td><td>16502</td></tr><tr><td>赏樱大会欧皇</td><td>16544</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;装扮&lt;/th&gt;
+&lt;th&gt;粉丝编号&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;天秤&lt;/td&gt;
+&lt;td&gt;35306&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;天秤&lt;/td&gt;
+&lt;td&gt;35307&lt;/td&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="B站" scheme="https://www.silk.moe/categories/B%E7%AB%99/"/>
+    
+    
+    <category term="B站" scheme="https://www.silk.moe/tags/B%E7%AB%99/"/>
+    
+    <category term="装扮" scheme="https://www.silk.moe/tags/%E8%A3%85%E6%89%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>Hi</title>
