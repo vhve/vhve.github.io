@@ -6,7 +6,7 @@
   <link href="https://www.silk.moe/atom.xml" rel="self"/>
   
   <link href="https://www.silk.moe/"/>
-  <updated>2021-08-08T15:20:19.180Z</updated>
+  <updated>2021-08-08T15:50:35.745Z</updated>
   <id>https://www.silk.moe/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.silk.moe/zb/"/>
     <id>https://www.silk.moe/zb/</id>
     <published>2021-08-08T14:58:43.000Z</published>
-    <updated>2021-08-08T15:20:19.180Z</updated>
+    <updated>2021-08-08T15:50:35.745Z</updated>
     
-    <content type="html"><![CDATA[<table><thead><tr><th>装扮</th><th>粉丝编号</th></tr></thead><tbody><tr><td>天秤</td><td>35306</td></tr><tr><td>天秤</td><td>35307</td></tr><tr><td>双鱼</td><td>36000</td></tr><tr><td>赏樱大会欧皇</td><td>4501</td></tr><tr><td>赏樱大会欧皇</td><td>4965</td></tr><tr><td>赏樱大会欧皇</td><td>6258</td></tr><tr><td>赏樱大会欧皇</td><td>7631</td></tr><tr><td>赏樱大会欧皇</td><td>10575</td></tr><tr><td>赏樱大会欧皇</td><td>10586</td></tr><tr><td>赏樱大会欧皇</td><td>11532</td></tr><tr><td>赏樱大会欧皇</td><td>11541</td></tr><tr><td>赏樱大会欧皇</td><td>12584</td></tr><tr><td>赏樱大会欧皇</td><td>13635</td></tr><tr><td>赏樱大会欧皇</td><td>15613</td></tr><tr><td>赏樱大会欧皇</td><td>15835</td></tr><tr><td>赏樱大会欧皇</td><td>16502</td></tr><tr><td>赏樱大会欧皇</td><td>16544</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<table><thead><tr><th>装扮</th><th>粉丝编号</th><th>价格</th></tr></thead><tbody><tr><td>天秤</td><td>35306</td><td>300</td></tr><tr><td>天秤</td><td>35307</td><td>300</td></tr><tr><td>双鱼</td><td>36000</td><td>100</td></tr><tr><td>白色情人节</td><td>131</td><td>90</td></tr></tbody></table>]]></content>
     
     
       
@@ -33,16 +33,16 @@
 &lt;tr&gt;
 &lt;th&gt;装扮&lt;/th&gt;
 &lt;th&gt;粉丝编号&lt;/th&gt;
+&lt;th&gt;价格&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;&lt;tr&gt;
 &lt;td&gt;天秤&lt;/td&gt;
 &lt;td&gt;35306&lt;/td&gt;
+&lt;td&gt;300&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;天秤&lt;/td&gt;
-&lt;td&gt;35307&lt;/td&gt;
-&lt;</summary>
+&lt;td</summary>
       
     
     
