@@ -58,21 +58,22 @@
   </entry>
   
   <entry>
-    <title>B站装扮</title>
+    <title>B站装扮库存</title>
     <link href="https://www.silk.moe/2/"/>
     <id>https://www.silk.moe/2/</id>
     <published>2021-08-08T14:58:43.000Z</published>
-    <updated>2021-08-10T01:08:00.886Z</updated>
+    <updated>2021-08-10T08:33:37.314Z</updated>
     
-    <content type="html"><![CDATA[<table><thead><tr><th>装扮</th><th>粉丝编号</th></tr></thead><tbody><tr><td>双鱼</td><td>36000</td></tr><tr><td>白色情人节</td><td>131</td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<p>联系方式：文章最下方加QQ</p><table><thead><tr><th>装扮名称</th><th>粉丝编号</th></tr></thead><tbody><tr><td>双鱼</td><td>36000</td></tr><tr><td>白色情人节</td><td>131</td></tr><tr><td>PinoQ</td><td>407</td></tr></tbody></table><img src="/2/QQ.png" class title="详情加QQ好友了解">]]></content>
     
     
       
       
-    <summary type="html">&lt;table&gt;
+    <summary type="html">&lt;p&gt;联系方式：文章最下方加QQ&lt;/p&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;装扮&lt;/th&gt;
+&lt;th&gt;装扮名称&lt;/th&gt;
 &lt;th&gt;粉丝编号&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -81,9 +82,7 @@
 &lt;td&gt;36000&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;白色情人节&lt;/td&gt;
-&lt;td&gt;131&lt;/td&gt;
-</summary>
+&lt;td&gt;白</summary>
       
     
     
