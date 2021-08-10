@@ -18,8 +18,8 @@
   
   <entry>
     <title>B站装扮发售时间统计</title>
-    <link href="https://www.silk.moe/3/"/>
-    <id>https://www.silk.moe/3/</id>
+    <link href="https://www.silk.moe/2/"/>
+    <id>https://www.silk.moe/2/</id>
     <published>2021-08-09T15:35:24.000Z</published>
     <updated>2021-08-10T01:17:44.527Z</updated>
     
@@ -58,58 +58,20 @@
   </entry>
   
   <entry>
-    <title>B站装扮库存</title>
-    <link href="https://www.silk.moe/2/"/>
-    <id>https://www.silk.moe/2/</id>
-    <published>2021-08-08T14:58:43.000Z</published>
-    <updated>2021-08-10T08:33:37.314Z</updated>
-    
-    <content type="html"><![CDATA[<p>联系方式：文章最下方加QQ</p><table><thead><tr><th>装扮名称</th><th>粉丝编号</th></tr></thead><tbody><tr><td>双鱼</td><td>36000</td></tr><tr><td>白色情人节</td><td>131</td></tr><tr><td>PinoQ</td><td>407</td></tr></tbody></table><img src="/2/QQ.png" class title="详情加QQ好友了解">]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;联系方式：文章最下方加QQ&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;装扮名称&lt;/th&gt;
-&lt;th&gt;粉丝编号&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;双鱼&lt;/td&gt;
-&lt;td&gt;36000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;白</summary>
-      
-    
-    
-    
-    <category term="B站" scheme="https://www.silk.moe/categories/B%E7%AB%99/"/>
-    
-    
-    <category term="B站" scheme="https://www.silk.moe/tags/B%E7%AB%99/"/>
-    
-    <category term="装扮" scheme="https://www.silk.moe/tags/%E8%A3%85%E6%89%AE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hi</title>
     <link href="https://www.silk.moe/1/"/>
     <id>https://www.silk.moe/1/</id>
     <published>2018-10-07T16:00:00.000Z</published>
-    <updated>2021-07-15T06:53:47.241Z</updated>
+    <updated>2021-08-10T10:30:31.946Z</updated>
     
-    <content type="html"><![CDATA[<p>Hi</p>]]></content>
+    <content type="html"><![CDATA[<p>Hi</p><p>如需联系可加qq，扫码或直接搜索qq号均可</p><img src="/1/QQ.png" class title="QQ">]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;Hi&lt;/p&gt;
-</summary>
+&lt;p&gt;如需联系可加qq，扫码或直接搜索qq号均可&lt;/p&gt;
+&lt;img src=&quot;/1/QQ.png&quot; class title=&quot;QQ&quot;&gt;</summary>
       
     
     
