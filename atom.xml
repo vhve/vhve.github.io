@@ -6,7 +6,7 @@
   <link href="https://www.silk.moe/atom.xml" rel="self"/>
   
   <link href="https://www.silk.moe/"/>
-  <updated>2021-08-24T06:58:06.174Z</updated>
+  <updated>2021-08-24T08:46:39.683Z</updated>
   <id>https://www.silk.moe/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.silk.moe/shop/"/>
     <id>https://www.silk.moe/shop/</id>
     <published>2021-08-24T05:50:10.000Z</published>
-    <updated>2021-08-24T06:58:06.174Z</updated>
+    <updated>2021-08-24T08:46:39.683Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="购买流程"><a href="#购买流程" class="headerlink" title="购买流程"></a>购买流程</h1><ol><li>选购：<ul><li>打开<a href="https://www.silk.moe/skins/">库存列表</a>，从中选取需要的装扮，编号，并记下对应的价格</li><li>用接收装扮的账号关注<a href="https://space.bilibili.com/19228099/">真由氏</a></li><li>不关注以上B站账号无法发货，收到装扮后可随意取关</li></ul></li><li>支付：<ul><li>点击页面底部的“打赏”，选择支付宝或微信付款</li><li>必须备注以下信息：接收装扮账号的B站uid，装扮名称，编号，价格</li><li>例：uid:123456789，樱欧皇，000001，10r</li><li>确定备注信息准确无误后，再付款</li></ul></li><li>联系发货：<ul><li>正常情况下，无需联系，当天内发货</li><li>如果当天没有收到装扮，或者需要立即发货，请加<a href="https://www.silk.moe/hi/">QQ</a>联系</li><li>B站私信一般不回</li></ul></li><li>注意事项：<ul><li>装扮仅能转赠一次，所以不支持退货</li><li>一个人只能从同一个人手中获赠1套相同的装扮，例：B有3套洛天依8th装扮，编号分别为1,2,3，A从B手中购买到洛天依1号后，就无法再次购买2号和3号了，所以选号需谨慎</li></ul></li></ol>]]></content>
+    <content type="html"><![CDATA[<h1 id="购买流程"><a href="#购买流程" class="headerlink" title="购买流程"></a>购买流程</h1><ol><li>选购：<ul><li>打开<a href="https://www.silk.moe/skins/">库存列表</a>，选取需要的装扮，编号，并记下对应的价格</li><li>用接收装扮的B站账号关注<a href="https://space.bilibili.com/19228099/">真由氏</a>，不关注无法发货，收到装扮后可随意取关</li></ul></li><li>付款：<ul><li>加<a href="https://www.silk.moe/hi/">QQ</a>并在验证信息填写：收B站装扮</li><li>通过后直接向我发送以下信息：接收装扮B站账号的uid，装扮名称，装扮编号，价格</li><li>例：uid:123456789，樱欧皇，000001，10r</li><li>我会先确认库存，确认无误后会发送付款方式，支持QQ，微信，支付宝 </li></ul></li><li>收货：<ul><li>如果是即时交流的话，一般确认收到款后5分钟内发货</li><li>如果交流间存在时差的话，最晚也可确保当天发货</li></ul></li><li>注意事项：<ul><li>所有装扮仅能转赠一次，所以不支持退货</li><li>一个人只能从同一个人手中获赠一套相同的装扮，所以选号需谨慎。例：B有3套洛天依8th装扮，编号分别为1,2,3，A从B手中购买到洛天依1号后，就无法再次购买2号和3号了</li></ul></li></ol>]]></content>
     
     
       
@@ -35,10 +35,10 @@
     
     
     
-    <category term="哔哩哔哩装扮" scheme="https://www.silk.moe/categories/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A3%85%E6%89%AE/"/>
+    <category term="B站装扮" scheme="https://www.silk.moe/categories/B%E7%AB%99%E8%A3%85%E6%89%AE/"/>
     
     
-    <category term="哔哩哔哩装扮" scheme="https://www.silk.moe/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A3%85%E6%89%AE/"/>
+    <category term="B站装扮" scheme="https://www.silk.moe/tags/B%E7%AB%99%E8%A3%85%E6%89%AE/"/>
     
   </entry>
   
@@ -47,7 +47,7 @@
     <link href="https://www.silk.moe/skins/"/>
     <id>https://www.silk.moe/skins/</id>
     <published>2021-08-09T15:35:24.000Z</published>
-    <updated>2021-08-24T06:56:19.675Z</updated>
+    <updated>2021-08-24T07:48:34.649Z</updated>
     
     <content type="html"><![CDATA[<p>施工中</p>]]></content>
     
