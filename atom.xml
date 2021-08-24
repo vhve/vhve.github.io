@@ -6,7 +6,7 @@
   <link href="https://www.silk.moe/atom.xml" rel="self"/>
   
   <link href="https://www.silk.moe/"/>
-  <updated>2021-08-13T01:33:22.326Z</updated>
+  <updated>2021-08-24T06:58:06.174Z</updated>
   <id>https://www.silk.moe/</id>
   
   <author>
@@ -17,50 +17,72 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>B站装扮发售时间统计</title>
-    <link href="https://www.silk.moe/2/"/>
-    <id>https://www.silk.moe/2/</id>
+    <title>处理多余B站装扮</title>
+    <link href="https://www.silk.moe/shop/"/>
+    <id>https://www.silk.moe/shop/</id>
+    <published>2021-08-24T05:50:10.000Z</published>
+    <updated>2021-08-24T06:58:06.174Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="购买流程"><a href="#购买流程" class="headerlink" title="购买流程"></a>购买流程</h1><ol><li>选购：<ul><li>打开<a href="https://www.silk.moe/skins/">库存列表</a>，从中选取需要的装扮，编号，并记下对应的价格</li><li>用接收装扮的账号关注<a href="https://space.bilibili.com/19228099/">真由氏</a></li><li>不关注以上B站账号无法发货，收到装扮后可随意取关</li></ul></li><li>支付：<ul><li>点击页面底部的“打赏”，选择支付宝或微信付款</li><li>必须备注以下信息：接收装扮账号的B站uid，装扮名称，编号，价格</li><li>例：uid:123456789，樱欧皇，000001，10r</li><li>确定备注信息准确无误后，再付款</li></ul></li><li>联系发货：<ul><li>正常情况下，无需联系，当天内发货</li><li>如果当天没有收到装扮，或者需要立即发货，请加<a href="https://www.silk.moe/hi/">QQ</a>联系</li><li>B站私信一般不回</li></ul></li><li>注意事项：<ul><li>装扮仅能转赠一次，所以不支持退货</li><li>一个人只能从同一个人手中获赠1套相同的装扮，例：B有3套洛天依8th装扮，编号分别为1,2,3，A从B手中购买到洛天依1号后，就无法再次购买2号和3号了，所以选号需谨慎</li></ul></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;购买流程&quot;&gt;&lt;a href=&quot;#购买流程&quot; class=&quot;headerlink&quot; title=&quot;购买流程&quot;&gt;&lt;/a&gt;购买流程&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;选购：&lt;ul&gt;
+&lt;li&gt;打开&lt;a href=&quot;https://www.silk.moe/skins/&quot;&gt;库存列表</summary>
+      
+    
+    
+    
+    <category term="哔哩哔哩装扮" scheme="https://www.silk.moe/categories/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A3%85%E6%89%AE/"/>
+    
+    
+    <category term="哔哩哔哩装扮" scheme="https://www.silk.moe/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%A3%85%E6%89%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>库存列表</title>
+    <link href="https://www.silk.moe/skins/"/>
+    <id>https://www.silk.moe/skins/</id>
     <published>2021-08-09T15:35:24.000Z</published>
-    <updated>2021-08-13T01:33:22.326Z</updated>
+    <updated>2021-08-24T06:56:19.675Z</updated>
     
-    <content type="html"><![CDATA[<p>不完全准确，仅供参考。</p><img src="/2/zb.png" class title="装扮考古">]]></content>
+    <content type="html"><![CDATA[<p>施工中</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;不完全准确，仅供参考。&lt;/p&gt;
-&lt;img src=&quot;/2/zb.png&quot; class title=&quot;装扮考古&quot;&gt;</summary>
+    <summary type="html">&lt;p&gt;施工中&lt;/p&gt;
+</summary>
       
     
     
     
-    <category term="B站" scheme="https://www.silk.moe/categories/B%E7%AB%99/"/>
+    <category term="default" scheme="https://www.silk.moe/categories/default/"/>
     
     
-    <category term="B站" scheme="https://www.silk.moe/tags/B%E7%AB%99/"/>
-    
-    <category term="装扮" scheme="https://www.silk.moe/tags/%E8%A3%85%E6%89%AE/"/>
-    
-    <category term="发售时间" scheme="https://www.silk.moe/tags/%E5%8F%91%E5%94%AE%E6%97%B6%E9%97%B4/"/>
+    <category term="default" scheme="https://www.silk.moe/tags/default/"/>
     
   </entry>
   
   <entry>
     <title>Hi</title>
-    <link href="https://www.silk.moe/1/"/>
-    <id>https://www.silk.moe/1/</id>
+    <link href="https://www.silk.moe/hi/"/>
+    <id>https://www.silk.moe/hi/</id>
     <published>2018-10-07T16:00:00.000Z</published>
-    <updated>2021-08-12T01:53:11.342Z</updated>
+    <updated>2021-08-24T05:51:10.763Z</updated>
     
-    <content type="html"><![CDATA[<p>Hi</p><img src="/1/hi.webp" class title="hi"><img src="/1/QQ.png" class title="QQ">]]></content>
+    <content type="html"><![CDATA[<p>Hi</p><img src="/hi/hi.webp" class title="hi"><img src="/hi/QQ.png" class title="QQ">]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;Hi&lt;/p&gt;
-&lt;img src=&quot;/1/hi.webp&quot; class title=&quot;hi&quot;&gt;
+&lt;img src=&quot;/hi/hi.webp&quot; class title=&quot;hi&quot;&gt;
 
-&lt;img src=&quot;/1/QQ.png&quot; class title=&quot;QQ&quot;&gt;</summary>
+&lt;img src=&quot;/hi/QQ.png&quot; class title=&quot;QQ&quot;&gt;</summary>
       
     
     
