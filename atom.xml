@@ -6,7 +6,7 @@
   <link href="https://www.silk.moe/atom.xml" rel="self"/>
   
   <link href="https://www.silk.moe/"/>
-  <updated>2021-08-31T04:02:30.960Z</updated>
+  <updated>2021-08-31T08:33:10.055Z</updated>
   <id>https://www.silk.moe/</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="https://www.silk.moe/000001/"/>
     <id>https://www.silk.moe/000001/</id>
     <published>2021-08-31T03:50:10.000Z</published>
-    <updated>2021-08-31T04:02:30.960Z</updated>
+    <updated>2021-08-31T08:33:10.055Z</updated>
     
-    <content type="html"><![CDATA[<p>hi</p><a id="more"></a><p>这大概算是博客计划重启吧，就其实意义也不是很大，今后就纯作为个人记录之用吧。</p><p>然后今天恰好也是初音的30岁生日，挺好。</p><img src="/000001/hi.webp" class title="hi">]]></content>
+    <content type="html"><![CDATA[<p>hi</p><a id="more"></a><p>这大概算是博客计划重启吧，其实意义也不是很大，今后就纯作为个人心情记录之用吧</p><p>然后今天恰好也是初音的30岁生日(</p><p>就都挺好的</p><img src="/000001/hi.webp" class title="hi">]]></content>
     
     
     <summary type="html">&lt;p&gt;hi&lt;/p&gt;</summary>
     
     
     
-    <category term="闲言碎语" scheme="https://www.silk.moe/categories/%E9%97%B2%E8%A8%80%E7%A2%8E%E8%AF%AD/"/>
+    <category term="RINE" scheme="https://www.silk.moe/categories/RINE/"/>
     
     
     <category term="hi" scheme="https://www.silk.moe/tags/hi/"/>
